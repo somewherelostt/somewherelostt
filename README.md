@@ -1,45 +1,43 @@
-<h1 align="left">Hey 👋 , I am Maaz</h1>
+<h1 align="left">Hey 👋, I'm Maaz</h1>
 
 ###
 
-<h2 align="left">Skills/learning</h2>
-
-###
-
-<p align="left">C <br>C++<br>html5 CSS <br>currently exploring different things.</p>
+<h2 align="left">🛠️ Skills & Tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
 </div>
 
-###
+**Languages:** Python, C++, C, JavaScript  
+**Tools:** Git, Docker, Firebase, Flask  
+**Learning:** Machine Learning, Web Dev  
 
-<h2 align="left">Connect With Me</h2>
+---
 
-###
+### 📌 Highlights  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abu-maaz-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/somewherelostt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/SomewhereLosttt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+- Managing DS CLUB of My College.  
+- Conducted sessions for 120+ members in Data Science Club.  
 
-###
+---
+
+<h2 align="left">🌐 Connect with me</h2>
+
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/abu-maaz-/)
+[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/SomewhereLosttt)
+
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/somewherelostt/count.svg?"  />
 </div>
-
-###
