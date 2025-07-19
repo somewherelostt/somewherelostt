@@ -32,8 +32,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### 🌐 Web3 & Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+started exploring
 
 ### 🧠 AI/ML & Data Science *(for research only)*
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -103,13 +102,6 @@ class Maaz:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-<img src="https://profile-counter.glitch.me/somewherelostt/count.svg" alt="Visitor Count" />
 
 ---
 
