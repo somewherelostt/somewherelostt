@@ -1,7 +1,7 @@
 # Maaz
 
 Web Developer | Web3 Explorer | Hackathon Builder | Community Lead  
-[Portfolio](https://maazx.dev) • [LinkedIn](https://www.linkedin.com/in/maaz--/) • [Twitter](https://x.com/Maaztwts)
+<a href="https://maazx.dev" target="_blank">Portfolio</a> • <a href="https://www.linkedin.com/in/maaz--/" target="_blank">LinkedIn</a> • <a href="https://x.com/Maaztwts" target="_blank">Twitter</a>
 
 ---
 
