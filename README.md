@@ -1,7 +1,7 @@
 # Maaz
 
 Web Developer | Web3 Explorer | Hackathon Builder | Community Lead  
-[GitHub](https://github.com/somewherelostt) • [LinkedIn](https://www.linkedin.com/in/maaz--/) • [Twitter](https://x.com/Maaztwts)
+[LinkedIn](https://www.linkedin.com/in/maaz--/) • [Twitter](https://x.com/Maaztwts)
 
 ---
 
