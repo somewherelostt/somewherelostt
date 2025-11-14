@@ -15,10 +15,10 @@ Focused on building products, winning hackathons, and contributing to open sourc
 ## Achievements
 
 - 🥇 **1st Prize – CLI Hackathon 2025** — P2P file-sharing CLI tool (**₹1,05,000 / $1,200**)  
-- 🥇 **1st Prize – Stellar India Ideathon 2025** — NFT-based rewards platform (**₹60,000 / $720**)  
-- 🥇 **1st Prize – Hack Beyond Limits 2025** — MSME logistics solution (**₹50,000 / $600**)  
+- 🥇 **1st Prize – Stellar India Ideathon 2025** — NFT-based rewards platform
+- 🥇 **1st Prize – Hack Beyond Limits 2025** — MSME logistics solution  
 - 🥉 **3rd Prize – Stellar National Bounty 2025** (**₹17,000 / $200**)  
-- 🏅 **Top 4 – Monad Blitz Delhi Hackathon 2025**  
+- 🏅 **Top 4 – Monad Blitz Delhi Hackathon 2025**  (**Won F75 Aula Keyboard**)
 - 🏅 **Top 7 (South & SEA) – TON Hackathon 2025**  
 - 👥 **Technical Lead – Data Science Club (220+ members)**
 
