@@ -14,8 +14,10 @@ Focused on building products, winning hackathons, and contributing to open sourc
 
 ## Achievements
 
+- 🥇 **1st Prize – GLM 4.7 Global Hackathon** (X Track) — FlickAI desktop AI assistant (₹2,27,500 / $2,500 + Cerebras Pro plan)
 - 🥇 **1st Prize – CLI Hackathon 2025** — P2P file-sharing CLI tool (**₹1,05,000 / $1,200**)  
 - 🥇 **1st Prize – Stellar India Ideathon 2025** — NFT-based rewards platform
+- 🥇 **1st Prize – Stack 3.0 Hackathon** — ₹10,000 Amazon voucher + official merchandise
 - 🥇 **1st Prize – Hack Beyond Limits 2025** — MSME logistics solution  
 - 🥉 **3rd Prize – Stellar National Bounty 2025** (**$100 / 441 xlm**)  
 - 🏅 **Top 4 – Monad Blitz Delhi Hackathon 2025**  (**Won F75 Aula Keyboard**)
