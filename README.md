@@ -12,7 +12,7 @@
 / <a href="https://x.com/Maaztwts">x.com/Maaztwts</a> / <a href="https://www.linkedin.com/in/maaz--/">linkedin</a> / <a href="https://medium.com/@somewherelostt">medium</a>
 </samp>
 
-<br><br>
+<br>
 
 Building at [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestrator). Working on AI tools, developer software, and internal tools for growth. [Merged contributions](https://github.com/Untrivial-ai/agent-orchestrator/pulls?q=is%3Apr+is%3Amerged+author%3Asomewherelostt).
 
