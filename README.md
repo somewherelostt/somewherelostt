@@ -18,7 +18,7 @@ Building at [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestra
 
 ### `projects`
 
-- [FlickAI](https://x.com/Maaztwts/status/2016358730548527445?s=20) · desktop AI assistant with screen context and persistent memory. 1st, GLM 4.7 X Track · ₹2.5 lakh from Cerebras.
+- [FlickAI](https://github.com/somewherelostt/FlickAI) · desktop AI with screen context & memory · 1st, GLM 4.7 X Track · ₹2.5L, Cerebras · [demo](https://x.com/Maaztwts/status/2016358730548527445)
 - [Traverse](https://github.com/somewherelostt/Traverse) · Rust P2P file-sharing CLI with chunked transfers and SHA-256 verification. 1st, CLI Hackathon 2025 · ₹1.05 lakh.
 - [OSAP](https://maazx.dev) · AI assistant for working across Slack, GitHub, and Notion. 1st prize, Z.ai GLM-5.1 · [featured by Z.ai](https://x.com/Zai_org/status/2042996323037917227).
 
